@@ -58,8 +58,6 @@ public class Perro {
     public void setGenero(String tipoComida) {
         this.genero = genero;
     }
-    // Comida get y set
-
 
     //Metodo comer
     public void comer(String tipoComida, double gramos) {
